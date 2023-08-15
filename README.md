@@ -1,1 +1,1 @@
-# SQL Project 4 - Exploratory Data Analysis - Mexican Toy Shop Sales Analysis
+# SQL Project 4 - Exploratory Data Analysis - Mexican Toy Store Sales Analysis
