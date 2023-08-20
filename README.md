@@ -2,7 +2,7 @@
 
 ## Complete code attached - Mexico Toy Store Sales Analysis.sql
 
-## Data Insights
+## Data Insights Using SQL.
 
 ### 1) Number of stores currently open.
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project4-Exploratory-Data-Analysis/assets/92262753/2af1d49a-ca2e-4d39-838a-e38c2d9c1058)
